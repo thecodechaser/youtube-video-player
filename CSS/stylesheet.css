@@ -1,0 +1,16 @@
+/* stylesheet */
+
+.youtube-logo{
+    width: 120px;
+    height: 70px;
+}
+
+#logo{
+    padding-left: 30px;
+}
+
+.main-frame{
+    /* margin-bottom: 200px; */
+    padding-left: 100px;
+    padding-top: 20px;
+}
