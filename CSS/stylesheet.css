@@ -30,6 +30,7 @@ gap: 15px;
 
 p, a{
     font-family: Roboto, Arial, sans-serif;
+    text-decoration: none;
 }
 
 .title{
@@ -42,7 +43,7 @@ font-weight: 100;
 font-size: 14px;
 }
 
-.subsribe{
+ .subsribe{
     display: flex;
     padding-top: 50px;
 }
@@ -66,6 +67,51 @@ font-weight: 400;
 
 .about{
     padding-left: 70px;
+}
+
+.side-bar-image{
+    height: 100px;
+    width: 160px;
+}
+
+.suggestions{
+    display: flex;
+    padding-top: 20px;
+}
+
+.side-bar-videos{
+color: black;
+font-weight: 500;
+padding-left: 8px;
+}
+
+.comments{
+    display: flex;
+    padding-top: 20px;
+}
+
+#short-by{
+padding-left: 50px;
+padding-top: 17px;
+}
+
+.show-more{
+    padding-left: 65px;
+    padding-top: 20px;
+}
+
+#show-more-link, #short-by{
+    color: black;
+}
+
+#show-more-link{
+    font-size: 13px;
+    font-weight: 500;
+}
+
+#comments-count, #short-by{
+    font-weight: bold;
+
 }
 
 
