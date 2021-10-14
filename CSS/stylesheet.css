@@ -6,7 +6,11 @@
 }
 
 #logo{
-    padding-left: 30px;
+    padding-left: 20px;
+}
+
+.navbar{
+    display: flex;
 }
 
 .main-frame{  
@@ -81,8 +85,7 @@ font-weight: 400;
 
 .side-bar-videos{
 color: black;
-font-weight: 500;
-padding-left: 8px;
+font-weight: 520;
 }
 
 .comments{
@@ -114,5 +117,53 @@ padding-top: 17px;
 
 }
 
+#search-bar{
+    padding-left: 160px;
+    padding-top: 20px;
+}
+
+input{
+    line-height: 30px;
+}
+
+#search-image{
+    height: 25px;
+    width: 25px;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 4px;
+   
+}
+
+.search-icon{
+    border: 0.1px solid black;
+    margin-top: 20px;
+    margin-bottom: 18px;
+}
+
+#menu-image{
+    width: 30px;
+    padding-top: 20px;
+}
+
+#menu-link{
+    padding-left: 30px;
+}
+
+.views-count-sidebar{
+    font-weight: 100;
+font-size: 14px;
+}
+
+.side-bar-details{
+    padding-left: 8px;
+}
+
+#mic-image{
+    height: 27px;
+    width: 27px;
+    padding-top: 22px;
+    padding-left: 20px;
+}
 
 
