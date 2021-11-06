@@ -6,7 +6,7 @@
 
 ## Screenshots:
 
-![screenshot](./images/Screenshot1.png)
+![screenshot](./Images/Screenshot1.png)
 
 ## Built With
 
